@@ -1,2 +1,4 @@
 # Spiking-Neural-Networks
 Spiking Neural Network (SNN). Because brains are the most optimal neural nets, why not accept what has competed for over 3 billion years and still survived.
+
+The difference between an ordinary artificial neural network (ANN) and SNN is that, a SNN's neuron only activates/spikes upon crossing a threshold value. The most common model for simulating or exhibiting such spikes are integerate&fire or leaky integerate&fire. More powerful than traditional machine learning techniques, it is rare to see such powerful implementation not widespread in the booming ML/AI world. However, an important reason for such an effect, is the inability to differentiate such spiking or binary functions. In essence, it is our incapacity to train in a supervised fashion such a model with efficient learning progress. Therefore, it has seen rare use cases, and can only be trained using unsupervised learning methods.
